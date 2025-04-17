@@ -1,0 +1,32 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Color x:Key="AccentColor">#FFB49E73</Color>
+    <Color x:Key="BackgroundColor">#FF1B1B1B</Color>
+    <Color x:Key="ErrorColor">#FFD75A4A</Color>
+    <Color x:Key="InputBackgroundColor">#FF2C2C2C</Color>
+    <Color x:Key="PrimaryAccentColor">#FFCC9966</Color>
+    <Color x:Key="PrimaryTextColor">#FFECECEC</Color>
+    <Color x:Key="SecondaryAccentColor">#FF9E9E82</Color>
+    <Color x:Key="SecondaryTextColor">#FF9AA1A7</Color>
+    <Color x:Key="SubtitleColor">#FF7F868B</Color>
+    <Color x:Key="TextBoxSelectedBackgroundColor">#FF383838</Color>
+    <Color x:Key="TextBoxSelectedBorderColor">#FFB49E73</Color>
+    <Color x:Key="UserProfileColor">#FFB4A08B</Color>
+
+    <SolidColorBrush x:Key="AccentBrush" Color="{StaticResource AccentColor}" />
+    <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource BackgroundColor}" />
+    <SolidColorBrush x:Key="ErrorBrush" Color="{StaticResource ErrorColor}" />
+    <SolidColorBrush x:Key="InputBackgroundBrush" Color="{StaticResource InputBackgroundColor}" />
+    <SolidColorBrush x:Key="PrimaryAccentBrush" Color="{StaticResource PrimaryAccentColor}" />
+    <SolidColorBrush x:Key="PrimaryTextBrush" Color="{StaticResource PrimaryTextColor}" />
+    <SolidColorBrush x:Key="SecondaryAccentBrush" Color="{StaticResource SecondaryAccentColor}" />
+    <SolidColorBrush x:Key="SecondaryTextBrush" Color="{StaticResource SecondaryTextColor}" />
+    <SolidColorBrush x:Key="SubtitleBrush" Color="{StaticResource SubtitleColor}" />
+    <SolidColorBrush x:Key="TextBoxSelectedBackgroundBrush" Color="{StaticResource TextBoxSelectedBackgroundColor}" />
+    <SolidColorBrush x:Key="TextBoxSelectedBorderBrush" Color="{StaticResource TextBoxSelectedBorderColor}" />
+    <SolidColorBrush x:Key="UserProfileBrush" Color="{StaticResource UserProfileColor}" />
+
+
+</ResourceDictionary>
+
