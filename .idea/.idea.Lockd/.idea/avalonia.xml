@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="Lockd.Desktop/App.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Resources.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Themes/DarkTheme.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Themes/LightTHeme.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Themes/LightTheme.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Views/MainView.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+        <entry key="Lockd.Desktop/Views/MainWindow.axaml" value="Lockd.Desktop/Lockd.Desktop.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
